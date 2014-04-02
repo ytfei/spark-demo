@@ -1,4 +1,3 @@
-This project is used to generate CRCS data based on [Client-side reporting mechanism doc](https://matrix.seven.com/display/Eng/Client-side+reporting+mechanism), it mainly used in project `oi-core` for unit test.
 
 **Build**
 
